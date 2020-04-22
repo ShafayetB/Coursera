@@ -1,5 +1,10 @@
+
+
 <!DOCTYPE html>
-<!-- saved from url=(0223)https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/blob/master/01%20-%20Introduction%20to%20Big%20Data/Quiz%201%20-%20Why%20Big%20Data%20and%20Where%20Did%20it%20Come%20From.md -->
+
+<!-- saved from url=(0223)https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-
+Specialization/blob/master/01%20-%20Introduction%20to%20Big%20Data/Quiz%201%20-
+%20Why%20Big%20Data%20and%20Where%20Did%20it%20Come%20From.md -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
   <link rel="dns-prefetch" href="https://github.githubassets.com/">
@@ -12,9 +17,15 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-FG+rXqMOivrAjdEQE7tO4BwM1poGmg70hJFTlNSxjX87grtrZ6UnPR8NkzwUHlQEGviu9XuRYeO8zH9YwvZhdg==" rel="stylesheet" href="./University-of-California-San-Diego-Big-Data-Specialization_Quiz 1 - Why Big Data and Where Did it Come From.md at master · AlessandroCorradini_University-of-California-San-Diego-Big-Data-Specialization_files/frameworks-146fab5ea30e8a.css">
+  <link crossorigin="anonymous" media="all" integrity="sha512- 
+  FG+rXqMOivrAjdEQE7tO4BwM1poGmg70hJFTlNSxjX87grtrZ6UnPR8NkzwUHlQEGviu9XuRYeO8zH9YwvZhdg==" rel="stylesheet" href="./University-of-
+  California-San-Diego-Big-Data-Specialization_Quiz 1 - Why Big Data and Where Did it Come From.md at master · 
+  AlessandroCorradini_University-of-California-San-Diego-Big-Data-Specialization_files/frameworks-146fab5ea30e8a.css">
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-SrB0X4ujAxk6uIFCdDuSgWWRh2UHBUlUAht/GLpHVDyI3+HehRnlmR83z56OOY8uDBcFNmZCFNZ/M/PhfaXR5g==" rel="stylesheet" href="./University-of-California-San-Diego-Big-Data-Specialization_Quiz 1 - Why Big Data and Where Did it Come From.md at master · AlessandroCorradini_University-of-California-San-Diego-Big-Data-Specialization_files/github-4ab0745f8ba303193a.css">
+    <link crossorigin="anonymous" media="all" integrity="sha512-
+    SrB0X4ujAxk6uIFCdDuSgWWRh2UHBUlUAht/GLpHVDyI3+HehRnlmR83z56OOY8uDBcFNmZCFNZ/M/PhfaXR5g==" rel="stylesheet" href="./University-of-
+    California-San-Diego-Big-Data-Specialization_Quiz 1 - Why Big Data and Where Did it Come From.md at master · 
+    AlessandroCorradini_University-of-California-San-Diego-Big-Data-Specialization_files/github-4ab0745f8ba303193a.css">
     
     
     
@@ -29,14 +40,33 @@
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars1.githubusercontent.com/u/13152962?s=400&amp;v=4"><meta name="twitter:site" content="@github"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization"><meta name="twitter:description" content="Repository for the Big Data Specialization from University of California San Diego on Coursera - AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization">
-    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/13152962?s=400&amp;v=4"><meta property="og:site_name" content="GitHub"><meta property="og:type" content="object"><meta property="og:title" content="AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization"><meta property="og:url" content="https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization"><meta property="og:description" content="Repository for the Big Data Specialization from University of California San Diego on Coursera - AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization">
+    <meta name="twitter:image:src" content="https://avatars1.githubusercontent.com/u/13152962?s=400&amp;v=4"><meta name="twitter:site" 
+    content="@github"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="AlessandroCorradini/University-
+    of-California-San-Diego-Big-Data-Specialization"><meta name="twitter:description" content="Repository for the Big Data 
+    Specialization from University of California San Diego on Coursera - AlessandroCorradini/University-of-California-San-Diego-Big-
+    Data-Specialization">
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/13152962?s=400&amp;v=4"><meta property="og:site_name" 
+    content="GitHub"><meta property="og:type" content="object"><meta property="og:title" content="AlessandroCorradini/University-of-
+    California-San-Diego-Big-Data-Specialization"><meta property="og:url" content="https://github.com/AlessandroCorradini/University-
+    of-California-San-Diego-Big-Data-Specialization"><meta property="og:description" content="Repository for the Big Data 
+    Specialization from University of California San Diego on Coursera - AlessandroCorradini/University-of-California-San-Diego-Big-
+    Data-Specialization">
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTI2MDQ3MTAyOjI1NjM2OTliNmMyYjkzMDMxZmM3M2Y2NDFjOTcwN2ZjY2I3ZmQzMDkyOWU4OTkwNmRmMWUyOWQ4YWE4Y2Q3OTI=--d11cc009d956224db6b43c8e680f97d72c6a4eaa">
+  <link rel="web-socket" 
+  
+  
+href="wss://live.github.com/_sockets/VjI6NTI2MDQ3MTAyOjI1NjM2OTliNmMyYjkzMDMxZmM3M2Y2NDFjOTcwN2ZjY2I3ZmQzMDkyOWU4OTkwNmRmMWUyOWQ4YWE4Y2
+  Q3OTI=--d11cc009d956224db6b43c8e680f97d72c6a4eaa">
   <link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
 
-  <meta name="request-id" content="F1D7:510F:41911D:57AF04:5EA03916" data-pjax-transient="true"><meta name="html-safe-nonce" content="fa7a2f375038128bf862656595947214ad96c4eb" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BbGVzc2FuZHJvQ29ycmFkaW5pL1VuaXZlcnNpdHktb2YtQ2FsaWZvcm5pYS1TYW4tRGllZ28tQmlnLURhdGEtU3BlY2lhbGl6YXRpb24vdHJlZS9tYXN0ZXIvMDElMjAtJTIwSW50cm9kdWN0aW9uJTIwdG8lMjBCaWclMjBEYXRhIiwicmVxdWVzdF9pZCI6IkYxRDc6NTEwRjo0MTkxMUQ6NTdBRjA0OjVFQTAzOTE2IiwidmlzaXRvcl9pZCI6IjM4NzI2NTkyODY2NDE2OTk1MDIiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"><meta name="visitor-hmac" content="8571a8ccede8230a4439ceff30bb3bff88a88fe53ab8f65050de538ac75c6e27" data-pjax-transient="true">
+  <meta name="request-id" content="F1D7:510F:41911D:57AF04:5EA03916" data-pjax-transient="true"><meta name="html-safe-nonce" 
+  content="fa7a2f375038128bf862656595947214ad96c4eb" data-pjax-transient="true"><meta name="visitor-payload" 
+content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BbGVzc2FuZHJvQ29ycmFkaW5pL1VuaXZlcnNpdHktb2YtQ2FsaWZvcm5pYS1TYW4tRGllZ28tQmlnLURhdG
+EtU3BlY2lhbGl6YXRpb24vdHJlZS9tYXN0ZXIvMDElMjAtJTIwSW50cm9kdWN0aW9uJTIwdG8lMjBCaWclMjBEYXRhIiwicmVxdWVzdF9pZCI6IkYxRDc6NTEwRjo0MTkxMUQ6N
+TdBRjA0OjVFQTAzOTE2IiwidmlzaXRvcl9pZCI6IjM4NzI2NTkyODY2NDE2OTk1MDIiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-
+pjax-transient="true"><meta name="visitor-hmac" content="8571a8ccede8230a4439ceff30bb3bff88a88fe53ab8f65050de538ac75c6e27" data-pjax-
+transient="true">
 
 
 
@@ -50,7 +80,11 @@
   <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-<meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="github"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event"><meta name="octolytics-dimension-ga_id" content="1820474571.1550150318" class="js-octo-ga-id"><meta name="octolytics-actor-id" content="52629233"><meta name="octolytics-actor-login" content="ShafayetB"><meta name="octolytics-actor-hash" content="557b48fdfc3670197e2fb0e0352542d71a21b7720cd57f1a034f7e4922d3cb5c">
+<meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="github"><meta name="octolytics-
+event-url" content="https://collector.githubapp.com/github-external/browser_event"><meta name="octolytics-dimension-ga_id" 
+content="1820474571.1550150318" class="js-octo-ga-id"><meta name="octolytics-actor-id" content="52629233"><meta name="octolytics-actor-
+login" content="ShafayetB"><meta name="octolytics-actor-hash" 
+content="557b48fdfc3670197e2fb0e0352542d71a21b7720cd57f1a034f7e4922d3cb5c">
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true">
 
 
@@ -70,9 +104,13 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NGJiYzQ1OTRjNWI3YTZjZDk5ODk2ZWE0NDE3YTNkOTM1NzkwYjViODkzNzllYWVkNmRmNWQ3NDdmOTY0MGYyYnx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjU4Ljc0LjEwMiIsInJlcXVlc3RfaWQiOiJGMUQ3OjUxMEY6NDE5MTFEOjU3QUYwNDo1RUEwMzkxNiIsInRpbWVzdGFtcCI6MTU4NzU1ODY3OSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" 
+ content="NGJiYzQ1OTRjNWI3YTZjZDk5ODk2ZWE0NDE3YTNkOTM1NzkwYjViODkzNzllYWVkNmRmNWQ3NDdmOTY0MGYyYnx7InJlbW90ZV9hZGRyZXNzIjoiMTAzLjU4Ljc0L
+  jEwMiIsInJlcXVlc3RfaWQiOiJGMUQ3OjUxMEY6NDE5MTFEOjU3QUYwNDo1RUEwMzkxNiIsInRpbWVzdGFtcCI6MTU4NzU1ODY3OSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
-    <meta name="enabled-features" content="MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
+    <meta name="enabled-features" 
+ content="MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLA
+  TIONS,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
 
   <meta http-equiv="x-pjax-version" content="a40d36f3330e99d22de88b3285cdec8c">
   

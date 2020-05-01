@@ -19,7 +19,7 @@
 <li><a href="https://github.com/ShafayetB/Coursera/tree/master/University-of-California-San-Diego/Machine%20Learning%20with%20Big%20Data">Machine Learning With Big Data</a></li>
   <li><a href="https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/tree/master/03%20-%20Big%20Data%20Integration%20and%20Processing">Big Data Integration and Processing</a></li>
   <li><a href="https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/tree/master/04%20-%20Machine%20Learning%20with%20Big%20Data">Machine Learning With Big Data</a></li>
-  <a href="https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/tree/master/05%20-%20Graph%20Analytics%20for%20Big%20Data">Graph Analytics for Big Data</a>
+  <a href="https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/tree/master/05%20-%20Graph%20Analytics%20for%20Big%20Data">Graph Analytics for Big Data</a></li>
   <li><a href="https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/tree/master/06%20-%20Big%20Data%20-%20Capstone%20Project">Capstone</a></li>
   
 </ol>

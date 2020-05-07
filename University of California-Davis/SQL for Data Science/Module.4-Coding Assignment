@@ -121,3 +121,9 @@ from Invoices as i
 left join Customers as c
 on i.CustomerId=c.CustomerId) as a
 where a.FirstName like "Astrid"
+
+
+
+
+
+

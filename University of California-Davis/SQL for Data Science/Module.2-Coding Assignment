@@ -74,3 +74,4 @@ SELECT AlbumId, Count(*) AS Ntracks
 FROM Tracks
 GROUP BY AlbumId
 HAVING COUNT (*) >= 12
+

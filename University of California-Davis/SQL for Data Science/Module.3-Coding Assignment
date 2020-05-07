@@ -177,22 +177,3 @@ left join Invoices
 on Customers.CustomerId=Invoices.CustomerId
 where Customers.City<>Invoices.BillingCity
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

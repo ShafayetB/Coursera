@@ -345,5 +345,3 @@
     - [x] A set of classes which generates reports
     - [ ] A class which provides a service (e.g. AccountCreationService)
     - [ ] A class which represents the paying customer
-
-

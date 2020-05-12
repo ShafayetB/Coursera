@@ -52,7 +52,7 @@
 
 ## 🔹 Applying Agile Mindset
 
-<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%201/Agile%20Principles%20Recap.png" width="353" height="322">
+<img src="https://github.com/ShafayetB/Coursera/blob/master/Software-Development-Lifecycle/Agile%20Development/Week%201/Agile%20Principles%20Recap.png" width="353" height="322">
 
 ### 🔺Using Agile Methods
 
@@ -84,7 +84,7 @@
 
 _________________________________
 
-<img src="https://github.com/ElizaLo/Software-Development-Lifecycle/blob/master/Agile%20Software%20Development/Week%201/Agile%20Project%20Journey%201.png" width="718" height="481">
+<img src="https://github.com/ShafayetB/Coursera/blob/master/Software-Development-Lifecycle/Agile%20Development/Week%201/Agile%20Project%20Journey%201.png" width="718" height="481">
  
 ### 🔺 Applying an Agile Mindset
 

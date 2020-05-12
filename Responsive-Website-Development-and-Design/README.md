@@ -15,5 +15,5 @@
 - [Week 3](https://github.com/ShafayetB/Coursera/tree/master/Responsive-Website-Development-and-Design/Responsive%20Web%20Design/Week%203)
   - Adding Content to Websites
 - [Week 4](https://github.com/ShafayetB/Coursera/tree/master/Responsive-Website-Development-and-Design/Responsive%20Web%20Design/Week%204)
-  - Software Development Models: Agile and Lean
+  - Building a Full Gallery App
   

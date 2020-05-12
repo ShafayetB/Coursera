@@ -1,4 +1,4 @@
-# Software development processes : Part 1
+# Software Development Processes : Part 1
 
 ## 🔴 Software Architecture: Models
 

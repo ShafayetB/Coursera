@@ -23,4 +23,9 @@
     - Agile Fundamentals
  - [Week 2](https://github.com/ShafayetB/Coursera/tree/master/Software-Development-Lifecycle/Agile%20Development/Week%202)
     - Requirements and Planning
+ - [Week 3](https://github.com/ShafayetB/Coursera/tree/master/Software-Development-Lifecycle/Agile%20Development/Week%203)
+    - Scrum
+ - [Week 4](https://github.com/ShafayetB/Coursera/tree/master/Software-Development-Lifecycle/Agile%20Development/Week%204)
+    - XP and Course Wrap-up
+    
  

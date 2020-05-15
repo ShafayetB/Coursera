@@ -1,6 +1,6 @@
 # Responsive Website Development and Design
 
-<strong><p> Specialization on Coursera by University of London</strong> https://www.coursera.org/specializations/website-development </p>
+<strong><p>✳ Specialization on Coursera by University of London</strong> https://www.coursera.org/specializations/website-development </p>
 
 1. [Responsive Web Design](https://github.com/ShafayetB/Coursera/tree/master/Responsive-Website-Development-and-Design/Responsive%20Web%20Design)
 

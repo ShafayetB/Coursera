@@ -1,6 +1,6 @@
 # Software Development Lifecycle
 
-> Specialization on Coursera by University of Minnesota   https://www.coursera.org/specializations/software-development-lifecycle
+<strong><p>✳ Specialization on Coursera by University of Minnesota <strong> https://www.coursera.org/specializations/software-development-lifecycle </p>
 
 1. [Software Development Processes and Methodologies](https://github.com/ShafayetB/Coursera/tree/master/Software-Development-Lifecycle/Software%20Development%20Processes%20and%20Methodologies)
 2. [Agile Software Development](https://github.com/ShafayetB/Coursera/tree/master/Software-Development-Lifecycle/Agile%20Development)
@@ -29,3 +29,4 @@
     - XP and Course Wrap-up
     
  
+<strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates</a> that contains all my certificates obtained through my journey.</strong></p><br>

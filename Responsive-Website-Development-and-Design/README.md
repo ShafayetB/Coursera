@@ -17,3 +17,4 @@
 - [Week 4](https://github.com/ShafayetB/Coursera/tree/master/Responsive-Website-Development-and-Design/Responsive%20Web%20Design/Week%204)
   - Building a Full Gallery App
   
+ >  <p>You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</p>

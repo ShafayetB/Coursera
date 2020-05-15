@@ -1,6 +1,6 @@
 # Responsive Website Development and Design
 
-> Specialization on Coursera by University of London   https://www.coursera.org/specializations/website-development
+<strong><p> Specialization on Coursera by University of London</strong> https://www.coursera.org/specializations/website-development </p>
 
 1. [Responsive Web Design](https://github.com/ShafayetB/Coursera/tree/master/Responsive-Website-Development-and-Design/Responsive%20Web%20Design)
 
@@ -17,4 +17,4 @@
 - [Week 4](https://github.com/ShafayetB/Coursera/tree/master/Responsive-Website-Development-and-Design/Responsive%20Web%20Design/Week%204)
   - Building a Full Gallery App
   
- >  <p>You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</p>
+<strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates</a> that contains all my certificates obtained through my journey.</strong></p><br>

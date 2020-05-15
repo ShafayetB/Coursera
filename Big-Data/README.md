@@ -1,6 +1,8 @@
 # Big Data
 
-<strong><p>✳ Specialization on Coursera by University of California San Diego</strong>  https://www.coursera.org/specializations/big-data </p>
+
+ 🔶 <a href="https://www.coursera.org/specializations/big-data">Big Data Specialization from University of California San Diego </a>
+<!--<strong><p>✳ Specialization on Coursera by University of California San Diego</strong>  https://www.coursera.org/specializations/big-data </p>-->
 
 
 1. [Introduction to Big Data](https://github.com/ShafayetB/Coursera/tree/master/Big-Data/Introduction%20to%20Big%20Data)

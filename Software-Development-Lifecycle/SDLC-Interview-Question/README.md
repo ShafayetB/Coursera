@@ -42,7 +42,7 @@ The software is checked according to efficiency and error free in this phase. Hi
 This phase contains archiving data and required software components, closing down the system, planning disposition activity and terminating system at appropriate end-of-system time.
 
 
-#Software Development Paradigm
+# Software Development Paradigm
 
 The software development paradigm consists of tools, methods, procedures and also defines SDLC to help developers to choose a strategy. Some of them are listed below.
 

@@ -1,4 +1,4 @@
-# Software Development Lifecycle
+# IT Fundamentals for Cybersecurity
 
 > Specialization on Coursera by IBM   https://www.coursera.org/specializations/it-fundamentals-cybersecurity
 1. [Introduction to Cybersecurity Tools & Cyber Attacks]

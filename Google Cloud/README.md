@@ -25,7 +25,7 @@
  
  
   # Google Cloud Platform Big Data and Machine Learning Fundamentals  
-  <strong><p>✳ Google CLoud Platform on Coursera <strong>  https://www.coursera.org/learn/gcp-big-data-ml-fundamentals </p>
+  <strong><p>✳ Google CLoud Platform on Coursera </strong>  https://www.coursera.org/learn/gcp-big-data-ml-fundamentals </p>
 
 - [Week 1](https://github.com/ShafayetB/Coursera/tree/master/Google%20Cloud/GCloud%20Platform%20Big%20Data%20and%20Machine%20Learning%20Fundamentals)
   - Introduction to the Data and Machine Learning on Google Cloud Platform Specialization

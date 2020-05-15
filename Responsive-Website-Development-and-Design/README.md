@@ -1,7 +1,7 @@
 # Responsive Website Development and Design
 
 
- 🔶 <a href="https://www.coursera.org/specializations/website-development">Responsive Website Development and Design Specialization from Uuniversity of London </a>
+ 🔶 <a href="https://www.coursera.org/specializations/website-development">Responsive Website Development and Design Specialization from University of London </a>
 
 <!--<strong><p>✳ Specialization on Coursera by University of London</strong> https://www.coursera.org/specializations/website-development </p>-->
 

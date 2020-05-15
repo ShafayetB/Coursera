@@ -1,6 +1,6 @@
 # IT Fundamentals for Cybersecurity
 
- 🔶 <a href="https://www.coursera.org/specializations/it-fundamentals-cybersecurity">IT Fundamentals for Cybersecurity Specialization from IBM</a>👈
+ 🔶 <a href="https://www.coursera.org/specializations/it-fundamentals-cybersecurity">IT Fundamentals for Cybersecurity Specialization from IBM</a>
 <!--<strong><p>✳Specialization on Coursera by IBM </strong> https://www.coursera.org/specializations/it-fundamentals-cybersecurity </p>-->
   
   

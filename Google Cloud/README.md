@@ -1,5 +1,5 @@
 ## Google Cloud Platform Fundamentals for AWS Professionals  
-<strong><p> Google Cloud Platform on Coursera <strong><p>  https://www.coursera.org/learn/gcp-fundamentals-aws
+<strong><p> Google Cloud Platform on Coursera </strong><p>  https://www.coursera.org/learn/gcp-fundamentals-aws
 
 - [Week 1](https://github.com/ShafayetB/Coursera/tree/master/Google%20Cloud/Google%20Cloud%20Platform%20Fundamentals%20for%20AWS%20Professionals/Week%201)
   - Introducing Google Cloud

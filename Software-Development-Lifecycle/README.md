@@ -1,6 +1,6 @@
 # Software Development Lifecycle
 
-<strong><p>✳ Specialization on Coursera by University of Minnesota <strong> https://www.coursera.org/specializations/software-development-lifecycle </p>
+<strong><p>✳ Specialization on Coursera by University of Minnesota </strong> https://www.coursera.org/specializations/software-development-lifecycle </p>
 
 1. [Software Development Processes and Methodologies](https://github.com/ShafayetB/Coursera/tree/master/Software-Development-Lifecycle/Software%20Development%20Processes%20and%20Methodologies)
 2. [Agile Software Development](https://github.com/ShafayetB/Coursera/tree/master/Software-Development-Lifecycle/Agile%20Development)

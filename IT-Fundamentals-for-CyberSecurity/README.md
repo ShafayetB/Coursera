@@ -1,6 +1,6 @@
 # IT Fundamentals for Cybersecurity
 
-<h3><strong><p>✳ Specialization on Coursera by IBM </strong>  https://www.coursera.org/specializations/it-fundamentals-cybersecurity </p></h3>
+<strong><p>✳ <h3>Specialization on Coursera by IBM </strong></h3>  https://www.coursera.org/specializations/it-fundamentals-cybersecurity </p>
   
   
 1. [Introduction to Cybersecurity Tools & Cyber Attacks]
@@ -21,7 +21,7 @@
   
   
     
-<h3><strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates" style="color:red">Certificates</a> that contains all my certificates obtained through my journey.</strong></p><br></h3>
+<h3><strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates</a> that contains all my certificates obtained through my journey.</strong></p><br></h3>
 
  
     

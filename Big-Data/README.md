@@ -64,7 +64,7 @@
     - Regression, Cluster Analysis, and Association Analysis
 
 
-<strong><p>🌟 You can see the certificates in my </strong> <a href="https://github.com/ShafayetB/Certificates" font-color:red;><b> Certificates </b> </a> <strong>that contains all my certificates obtained through my journey.</strong></p><br>
+<strong><p>🌟 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates</a>that contains all my certificates obtained through my journey.</strong></p><br>
 
 
     

@@ -1,6 +1,7 @@
 # IT Fundamentals for Cybersecurity
 
-<strong><p>✳Specialization on Coursera by IBM </strong> https://www.coursera.org/specializations/it-fundamentals-cybersecurity </p>
+<h3><a href="https://www.coursera.org/specializations/it-fundamentals-cybersecurity">IT Fundamentals for Cybersecurity Specialization from IBM</a> </h3>
+<!--<strong><p>✳Specialization on Coursera by IBM </strong> https://www.coursera.org/specializations/it-fundamentals-cybersecurity </p>-->
   
   
 1. [Introduction to Cybersecurity Tools & Cyber Attacks]

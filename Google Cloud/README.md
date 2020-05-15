@@ -1,5 +1,5 @@
 ## Google Cloud Platform Fundamentals for AWS Professionals  
-<strong><p>✳ Google Cloud Platform on Coursera </strong><p  https://www.coursera.org/learn/gcp-fundamentals-aws <p>
+<strong><p>✳ Google Cloud Platform on Coursera </strong><p  https://www.coursera.org/learn/gcp-fundamentals-aws </p>
 
 - [Week 1](https://github.com/ShafayetB/Coursera/tree/master/Google%20Cloud/Google%20Cloud%20Platform%20Fundamentals%20for%20AWS%20Professionals/Week%201)
   - Introducing Google Cloud
@@ -25,7 +25,7 @@
  
  
   # Google Cloud Platform Big Data and Machine Learning Fundamentals  
-  <strong><p>✳ Google CLoud Platform on Coursera <strong><p> https://www.coursera.org/learn/gcp-big-data-ml-fundamentals
+  <strong><p>✳ Google CLoud Platform on Coursera <strong></p> https://www.coursera.org/learn/gcp-big-data-ml-fundamentals
 
 - [Week 1](https://github.com/ShafayetB/Coursera/tree/master/Google%20Cloud/GCloud%20Platform%20Big%20Data%20and%20Machine%20Learning%20Fundamentals)
   - Introduction to the Data and Machine Learning on Google Cloud Platform Specialization

@@ -14,7 +14,7 @@
 
 - [Week 1](https://github.com/ShafayetB/Coursera/tree/master/IT-Fundamentals-for-CyberSecurity/Introduction%20to%20Cybersecurity%20Tools%20%26%20Cyber%20Attacks/Week%201)
   - History of Cybersecurity
-  - [Week 1](https://github.com/ShafayetB/Coursera/tree/master/IT-Fundamentals-for-CyberSecurity/Introduction%20to%20Cybersecurity%20Tools%20%26%20Cyber%20Attacks/Week%202)
+- [Week 2](https://github.com/ShafayetB/Coursera/tree/master/IT-Fundamentals-for-CyberSecurity/Introduction%20to%20Cybersecurity%20Tools%20%26%20Cyber%20Attacks/Week%202)
   - A brief overview of types of actors and their motives
 
 ## Cybersecurity Roles, Processes & Operating System Security
@@ -29,7 +29,7 @@
   - Overview of Virtualization
   
   
-    
+</br></br>    
 <strong><p>🔷You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</strong></p><br>
 
  

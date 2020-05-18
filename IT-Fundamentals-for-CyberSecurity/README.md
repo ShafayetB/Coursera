@@ -16,6 +16,8 @@
   - History of Cybersecurity
 - [Week 2](https://github.com/ShafayetB/Coursera/tree/master/IT-Fundamentals-for-CyberSecurity/Introduction%20to%20Cybersecurity%20Tools%20%26%20Cyber%20Attacks/Week%202)
   - A brief overview of types of actors and their motives
+  - [Week 3](https://github.com/ShafayetB/Coursera/tree/master/IT-Fundamentals-for-CyberSecurity/Introduction%20to%20Cybersecurity%20Tools%20&%20Cyber%20Attacks/Week%203)
+  - An overview of key security concepts
 
 ## Cybersecurity Roles, Processes & Operating System Security
 

@@ -19,5 +19,5 @@
   <li><a href="https://github.com/ShafayetB/Coursera/tree/master/University-of-California-San-Diego">Graph Analytics for Big Data</a></li>
   <li><a href="https://github.com/ShafayetB/Coursera/tree/master/University-of-California-San-Diego">Capstone</a></li> 
 </ol>
-<br/?
-<p>You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</p>
+<br/>
+<strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</strong></p><br>

@@ -1,7 +1,7 @@
 # Big Data
 
 
- 🔶<a href="https://www.coursera.org/specializations/big-data"> Big Data Specialization from University of California San Diego </a>
+ 🔶 <a href="https://www.coursera.org/specializations/big-data"> Big Data Specialization from University of California San Diego </a>
 <!--<strong><p>✳ Specialization on Coursera by University of California San Diego</strong>  https://www.coursera.org/specializations/big-data </p>-->
 
 

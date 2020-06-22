@@ -18,7 +18,7 @@
   
     
  <br/>
-🔷 **You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.** 
-<br/>
+<strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</strong></p><br/>
 
-<!--<strong><p>🔷 You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.</strong></p><br>-->
+<!--🔷 **You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.**  -->
+

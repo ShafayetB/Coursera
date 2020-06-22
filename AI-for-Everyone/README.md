@@ -1,6 +1,6 @@
 # AI for Everyone
 
- 🔶 <a href="https://www.coursera.org/learn/ai-for-everyone">AI fro Everyone from Deeplearning.ai</a>
+ 🔶 <a href="https://www.coursera.org/learn/ai-for-everyone">AI for Everyone from Deeplearning.ai</a>
   
   
 

@@ -10,14 +10,11 @@ Identify some of the assumptions made about the success of remote deposit captur
 
 For each assumption, provide the reason why you categorized the assumption into the particular category. </br>
 1) Current development team does not have experience to develop mobile app.( High impact if wrong, High Probability of it being wrong ) </br>
-Reason : A secure service is very important for bank application. If application security fails, it will result in negative customer experiences that will be quickly shared if it is not secure. The negative impact on the Bank will be high. 
-</br>
+Reason : A secure service is very important for bank application. If application security fails, it will result in negative customer experiences that will be quickly shared if it is not secure. The negative impact on the Bank will be high. </br>
 2)  May customer does not have internet banking so they may not use app. (High impact if wrong, Low Probability of it being wrong ) </br>
-Reason :  If customer doesn't use the mobile application, all the efforts and investment will be lost, but still bank can do some more marketing to make sure people do use their app.
-</br>
+Reason :  If customer doesn't use the mobile application, all the efforts and investment will be lost, but still bank can do some more marketing to make sure people do use their app. </br>
 3)  Quality of the mobile application image scan. ( Low impact if wrong, High Probability of it being wrong ) </br>
-Reason :  If customer not able to scan the cheque with quality its required from his down device.
-</br>
+Reason :  If customer not able to scan the cheque with quality its required from his down device. </br>
 4)  Customer may not want to invest in pre-test scanner. </br>
 Reason : Customer may not want to invest in purchasing pretest scanner or does impact the project.
 </br></br>

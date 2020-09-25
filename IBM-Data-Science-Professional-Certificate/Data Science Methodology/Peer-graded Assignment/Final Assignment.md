@@ -13,7 +13,7 @@ You are required to: </br>
 1.	Describe the problem, related to the topic you selected. </br>
 2.	Phrase the problem as a question to be answered using data. </br>
 For example, using the food recipes use case discussed in the labs, the question that we defined was, "Can we automatically determine the cuisine of a given dish based on its ingredients?". </br></br>
-<b>Describing the problem:</b> Daily we are receiving lots of emails from different sources. It can be work-related emails, it can be from friends or it can be auto-generated emails from machines. That is ok until you receive unwanted emails trying to gain your personal information or trying to deceive you by saying you have won some kind of lottery or whatever. That is a problem everyone is facing.</br>
+<b>Describing the problem:</b> Daily we are receiving lots of emails from different sources. It can be work-related emails, it can be from friends or it can be auto-generated emails from machines. That is ok until you receive unwanted emails trying to gain your personal information or trying to deceive you by saying you have won some kind of lottery or whatever. That is a problem everyone is facing.</br></br>
 <b>Phrase the problem as a question:</b> The question by ordinary people who don't have knowledge of computer science or IT is that how to differentiate between good emails and bad emails? i.e., spam emails and emails which are not spam.
 </br></br></br></br>
 

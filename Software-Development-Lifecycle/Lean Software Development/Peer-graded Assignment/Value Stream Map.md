@@ -1,12 +1,11 @@
 # Peer-graded Assignment: Value Stream Map
 
-PROMPT
+<b>PROMPT</b>
 Please create a Value Stream Map for the process of Wise Software Corp's software development process.
+<img src="https://github.com/ShafayetB/Coursera/blob/master/Software-Development-Lifecycle/Lean%20Software%20Development/Peer-graded%20Assignment/LP.PNG">
 
 
-
-
-PROMPT
+<b>PROMPT</b>
 Please calculate the Process Cycle Efficiency for this Value Stream? Please show your calculations.
 
 Process Cycle Efficiency= valued process time / cycle time
@@ -16,8 +15,7 @@ Cycle time= 6323 + 32400 =38723 min
 So, Process Cycle Efficiency= 6323 / 38723 = 0.163 =16.3%
 
 
-
-PROMTP
+<b>PROMTP</b>
 Make a recommendation for improving this process. Please specify what impact it will have in terms of VSM step and process cycle efficiency. Please calcuate new Process cycle efficiency if recommendations are implemented (HINT: For recommendations, think about merging steps, removing un-necessary steps or recommending alternatives to improve some of the process)?
 
 Merging:

@@ -38,5 +38,5 @@ The client and server clocks require to be synchronized or relatively closely sy
 
 <b>PROMPT</b></br>
 
-Diagram Kerberos authentication process. Label key components. Submission can be a picture or submitted in a Word document format
+Diagram Kerberos authentication process. Label key components. Submission can be a picture or submitted in a Word document format </br>
 <img src="https://github.com/ShafayetB/Coursera/blob/master/Computer-Security-and-/Windows%20Server%20Management%20and%20Security/Peer-graded%20Assignment/Kerberos%20authentication%20process%20.PNG">

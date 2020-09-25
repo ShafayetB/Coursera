@@ -1,7 +1,8 @@
 # Final Assignment Part One
 
 ### Q.1) How would YOU define AI? Your definition of AI can be similar or different from the ones given in the course
-Ans: Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+
+<b>Ans: Artificial intelligence (AI)</b> refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
 
 ### Q.2) Explain an application or use-case of AI that fascinates YOU.
 

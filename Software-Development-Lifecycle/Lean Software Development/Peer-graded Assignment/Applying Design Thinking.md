@@ -30,6 +30,6 @@ For any three assumptions you identified, please list the MVP Tests or Minimum V
 MVP Test </br>
 1)  Assumption: Developer should be given training about mobile app security & development. </br>
 Test : Test conducted after completion of training program (High cost/High quality) </br>
-2.  Assumption: The service reliability and availability will be high.Test : Prototype various combinations of functionality stress- and load-test application (High cost/High quality)</br>
+2)  Assumption: The service reliability and availability will be high.Test : Prototype various combinations of functionality stress- and load-test application (High cost/High quality)</br>
 3) Prepare small prototype of scanning check in bank branches, letter decide to move on development of mobile app application depend on the response. </br>
 Test : Result of use of prototype.

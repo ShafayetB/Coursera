@@ -3,7 +3,7 @@
 <b>PROMPT</b></br>
 Which topic did you choose to apply the data science methodology to? <b>(2 marks)</b></br>
 
-<b>Email</b></br></br>
+<b>Email</b></br></br></br>
 
 <b>PROMPT</b></br></br>
 Next, you will play the role of the client and the data scientist. </br>
@@ -12,11 +12,10 @@ Using the topic that you selected, complete the Business Understanding stage by 
 You are required to: </br>
 1.	Describe the problem, related to the topic you selected. </br>
 2.	Phrase the problem as a question to be answered using data. </br>
-For example, using the food recipes use case discussed in the labs, the question that we defined was, "Can we automatically determine the cuisine of a given dish based on its ingredients?". </br>
-<b>Describing the problem:</b> Daily we are receiving lots of emails from different sources. It can be work-related emails, it can be from friends or it can be auto-generated emails from machines. That is ok until you receive unwanted emails trying to gain your personal information or trying to deceive you by saying you have won some kind of lottery or whatever. That is a problem everyone is facing.
-</br>
+For example, using the food recipes use case discussed in the labs, the question that we defined was, "Can we automatically determine the cuisine of a given dish based on its ingredients?". </br></br>
+<b>Describing the problem:</b> Daily we are receiving lots of emails from different sources. It can be work-related emails, it can be from friends or it can be auto-generated emails from machines. That is ok until you receive unwanted emails trying to gain your personal information or trying to deceive you by saying you have won some kind of lottery or whatever. That is a problem everyone is facing.</br>
 <b>Phrase the problem as a question:</b> The question by ordinary people who don't have knowledge of computer science or IT is that how to differentiate between good emails and bad emails? i.e., spam emails and emails which are not spam.
-</br></br>
+</br></br></br></br>
 
 <b>PROMPT</b></br>
 Briefly explain how you would complete each of the following stages for the problem that you described in the Business Understanding stage, so that you are ultimately able to answer the question that you came up with. <b>(5 marks):</b></br>

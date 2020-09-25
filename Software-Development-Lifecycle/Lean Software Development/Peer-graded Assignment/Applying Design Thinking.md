@@ -12,11 +12,9 @@ For each assumption, provide the reason why you categorized the assumption into 
 1) Current development team does not have experience to develop mobile app.( High impact if wrong, High Probability of it being wrong ) </br>
 Reason : A secure service is very important for bank application. If application security fails, it will result in negative customer experiences that will be quickly shared if it is not secure. The negative impact on the Bank will be high. 
 </br>
-
 2)  May customer does not have internet banking so they may not use app. (High impact if wrong, Low Probability of it being wrong ) </br>
 Reason :  If customer doesn't use the mobile application, all the efforts and investment will be lost, but still bank can do some more marketing to make sure people do use their app.
 </br>
-
 3)  Quality of the mobile application image scan. ( Low impact if wrong, High Probability of it being wrong ) </br>
 Reason :  If customer not able to scan the cheque with quality its required from his down device.
 </br>
@@ -35,7 +33,6 @@ For any three assumptions you identified, please list the MVP Tests or Minimum V
 MVP Test </br>
 1)  Assumption: Developer should be given training about mobile app security & development. </br>
 Test : Test conducted after completion of training program (High cost/High quality) </br>
-2.  Assumption: The service reliability and availability will be high.Test : Prototype various combinations of functionality stress- and load-test application (High cost/High quality)
-</br>
+2.  Assumption: The service reliability and availability will be high.Test : Prototype various combinations of functionality stress- and load-test application (High cost/High quality)</br>
 3) Prepare small prototype of scanning check in bank branches, letter decide to move on development of mobile app application depend on the response. </br>
 Test : Result of use of prototype.

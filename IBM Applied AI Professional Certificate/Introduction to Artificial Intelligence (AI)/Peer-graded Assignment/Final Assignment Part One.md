@@ -12,6 +12,7 @@
 3. Artificial Intelligence in Education
 4. Artificial Intelligence in Autonomous Vehicles.
 5. Artificial Intelligence in Social Media.
+<br/>
 ..
 ..
 Many More Examples….

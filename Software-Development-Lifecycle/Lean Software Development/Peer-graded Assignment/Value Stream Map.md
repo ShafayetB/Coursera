@@ -3,7 +3,7 @@
 <b>PROMPT</b></br>
 Please create a Value Stream Map for the process of Wise Software Corp's software development process.
 <img src="https://github.com/ShafayetB/Coursera/blob/master/Software-Development-Lifecycle/Lean%20Software%20Development/Peer-graded%20Assignment/LP.PNG">
-<br/>
+</br>
 
 <b>PROMPT</b></br>
 Please calculate the Process Cycle Efficiency for this Value Stream? Please show your calculations.
@@ -13,7 +13,7 @@ Valued Added time= 10 +1 +1 +60 + 1 +30 +240 +30 +60 +30 +60 + 30 +4320 +1440 +1
 Non valued Added time = 720 + 720 +720 + 720 + 4320 +1440 +2880 +1440 +4320 + 7200 +7200 +720 = 32400 min
 Cycle time= 6323 + 32400 =38723 min
 So, Process Cycle Efficiency= 6323 / 38723 = 0.163 =16.3%
-<br/>
+</br>
 
 
 <b>PROMTP</b></br>

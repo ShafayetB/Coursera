@@ -2,10 +2,11 @@
 
 <b>PROMPT</b></br>
 Explain in detail what Kerberos tries to solve?</br>
+
 Kerberos tries to allow entities such as clients and servers to prove their identity over insecure channels and it tries to provide mutual authentication.</br></br></br>
 
 
-<b>PROMPT<b></br>
+<b>PROMPT</b></br>
 How does Kerberos solve the authentication issue?</br>
 - When a user wants to authenticate his identity by enter their username and password on his machine, his Kerberos client software will take the password and generate a encryption key based of it.</br>
 
@@ -25,14 +26,17 @@ How does Kerberos solve the authentication issue?</br>
 
 <b>PROMPT</b></br>
 How is Kerberos used today and why it is important?</br>
+
 Kerberos authentication is used especially in environments where runs Microsoft Active Directory and it's very important because in enterprise environments there are several services and many users. In addition, Kerberos has multiple benefits ,for instance, mutual authentication and faster authentication.</br></br></br>
 
 
 <b>PROMPT</b></br>
 Explain why time is an important part of Kerberos </br>
+
 The client and server clocks require to be synchronized or relatively closely synchronized because if not authentication will fail since the tickets expire before the client is authenticated.</br></br></br>
 
 
 <b>PROMPT</b></br>
+
 Diagram Kerberos authentication process. Label key components. Submission can be a picture or submitted in a Word document format </br>
 <img src="https://github.com/ShafayetB/Coursera/blob/master/Computer-Security-and-/Windows%20Server%20Management%20and%20Security/Peer-graded%20Assignment/Kerberos%20authentication%20process%20.PNG">
